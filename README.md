@@ -9,7 +9,7 @@
 
 Setup environment
 ☑️git clone https://github.com/GetachewGanfur/Predictive-Moves-with-News-Sentiment-Week1
-☑️cd solar-challenge-week1
+☑️cd Predictive-Moves-with-News-Sentiment-Week1
 ☑️python -m venv .venv
 ☑️.venv\Scripts\activate
 ☑️pip install -r requirements.txt
