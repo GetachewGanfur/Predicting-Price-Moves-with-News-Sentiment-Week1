@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 class Analysis:
     """Class containing all analysis functions"""
-
+  
     def __init__(self):
         pass
 
